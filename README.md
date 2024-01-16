@@ -1,5 +1,3 @@
-# Convert_JSON_to_CSV
-
 # JSON to CSV Converter
 
 This Python script converts JSON data to CSV format using the `json` and `csv` modules.
